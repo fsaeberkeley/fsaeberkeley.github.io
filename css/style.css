@@ -382,6 +382,14 @@ input.gn-search:focus {
 		content: "\e009"
 }
 
+.gn-icon-users::before {
+		content: "\e900"
+}
+
+.gn-icon-flickr::before {
+		content: "\e001"
+}
+
 /* if an icon anchor has a span, hide the span */
 
 .gn-icon span {
